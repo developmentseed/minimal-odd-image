@@ -23,6 +23,5 @@ dependencies:
   - code-server
   - jupyter-resource-usage
   - jupyter-vscode-proxy
-  - pip:
-      - gh-scoped-creds
+  - gh-scoped-creds
 
